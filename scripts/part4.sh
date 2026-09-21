@@ -11,3 +11,5 @@ cd ~
 
 cd lab0
 grep -Rhi 'реклам' claude_monet/owner_office/advertising_backup | grep -vi 'нагиев' | sort | wc -w
+
+cd ~
