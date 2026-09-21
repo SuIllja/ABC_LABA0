@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd ~
 cd lab0
 chmod 640 nagiev_call
 chmod u=rwx,g=rx,o=- archive
@@ -31,4 +31,4 @@ cd ..
 cd owner_office
 chmod 640 owner_order
 chmod u=rw,g=r,o=- expense_plan
-cd ~/lab0
+cd ~
