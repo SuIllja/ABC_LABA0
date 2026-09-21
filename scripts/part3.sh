@@ -1,5 +1,6 @@
 #!/bin/bash
-
+cd ~
+cd lab0
 cp nagiev_call claude_monet/owner_office/nagiev_call_copy
 cp -r claude_monet/advertising claude_monet/owner_office/advertising_backup
 ln -s claude_monet/contracts/supplier_contract owner_contract
@@ -14,4 +15,4 @@ mv claude_monet/advertising/promo_plan archive/promo_final
 cd claude_monet/advertising
 touch .gitkeep
 cd ~
-cd lab0
+
