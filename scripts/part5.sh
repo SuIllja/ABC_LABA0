@@ -1,4 +1,5 @@
 #!/bin/bash
+cd ~
 cd lab0
 rm claude_monet/owner_office/nagiev_call_copy
 rm owner_contract
