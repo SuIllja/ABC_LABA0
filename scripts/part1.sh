@@ -1,8 +1,8 @@
 #!/bin/bash
 
 cd ~
-mkdir lab0
 cd lab0
+rm -r archive claude_monet nagiev_call
 mkdir claude_monet
 mkdir archive
 touch nagiev_call
